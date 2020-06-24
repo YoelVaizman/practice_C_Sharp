@@ -1,0 +1,6 @@
+C:\Users\Yoel\source\repos\practice_C_Sharp\bin\Debug\ConsoleApplication.exe
+C:\Users\Yoel\source\repos\practice_C_Sharp\bin\Debug\ConsoleApplication.pdb
+C:\Users\Yoel\source\repos\practice_C_Sharp\obj\x86\Debug\practice_C_Sharp.csprojAssemblyReference.cache
+C:\Users\Yoel\source\repos\practice_C_Sharp\obj\x86\Debug\practice_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Yoel\source\repos\practice_C_Sharp\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Yoel\source\repos\practice_C_Sharp\obj\x86\Debug\ConsoleApplication.pdb
